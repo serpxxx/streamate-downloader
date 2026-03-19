@@ -141,22 +141,22 @@ Start here: [https://serp.ly/streamate-video-downloader](https://serp.ly/streama
 
 ## FAQ
 
-**Can I record Streamate live streams?**  
+**Can I record Streamate live streams**  
 Yes. Active Streamate live rooms can be recorded while they are broadcasting.
 
-**Can I download saved videos too?**  
+**Can I download saved videos too**  
 Yes. The extension supports saved Streamate videos on supported pages.
 
-**Does it support VR streams?**  
+**Does it support VR streams**  
 Yes, when Streamate exposes compatible VR-capable media for that page.
 
-**What file format do downloads use?**  
+**What file format do downloads use**  
 Videos are saved as MP4 files.
 
-**Where are videos saved?**  
+**Where are videos saved**  
 They are saved to your default Downloads location, typically inside a STREAMATE subfolder.
 
-**Do I need extra software?**  
+**Do I need extra software**  
 No. Everything runs through the browser extension.
 
 ## Notes
