@@ -1,0 +1,10 @@
+{
+  "actorSpecification": 1,
+  "buildTag": "latest",
+  "description": "Streamate Downloader gives you a dependable way to save publicly accessible Streamate videos and recordings for offline viewing. It focuses on stable downloads, private local storage, and a clean workflow for archiving content you are authorized to access.",
+  "input": "./INPUT_SCHEMA.json",
+  "name": "streamate-downloader",
+  "readme": "../ACTOR.md",
+  "title": "Streamate Downloader",
+  "version": "0.0"
+}
