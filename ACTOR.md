@@ -1,4 +1,4 @@
-# Streamate Downloader (Browser Extension)
+# Streamate Downloader
 
 > Record Streamate live streams and download saved videos as MP4 files for offline viewing.
 
