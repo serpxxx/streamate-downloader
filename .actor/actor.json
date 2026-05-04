@@ -5,6 +5,6 @@
   "input": "./INPUT_SCHEMA.json",
   "name": "streamate-downloader",
   "readme": "../ACTOR.md",
-  "title": "Streamate Downloader",
+  "title": "Streamate Video Downloader | How to Download Streamate Videos",
   "version": "0.0"
 }
