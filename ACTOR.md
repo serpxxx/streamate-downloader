@@ -1,6 +1,10 @@
-# Streamate Downloader
+# Streamate Video Downloader | How to Download Streamate Videos
 
 > Record Streamate live streams and download saved videos as MP4 files for offline viewing.
+
+## Get it Here
+
+Get it here: https://serp.ly/streamate-video-downloader
 
 ![Streamate Downloader](https://raw.githubusercontent.com/serpxxx/streamate-downloader/main/assets/workflow-preview.webp)
 
@@ -11,11 +15,6 @@ Streamate Downloader is a browser extension built for users who want a cleaner w
 - Preserve supported VR captures with playback-friendly metadata when available
 - Choose from the stream qualities exposed on the page
 - Save MP4 files for easier offline playback and archiving
-
-## Get it Here
-
-Get it here: https://serp.ly/streamate-video-downloader
-
 ## Table of Contents
 
 - [Why Streamate Downloader](#why-streamate-downloader)
